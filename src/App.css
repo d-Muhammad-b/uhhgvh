@@ -1,0 +1,53 @@
+header{
+  padding: 10px;
+  border-bottom: 1px solid gray;
+}
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top:20px ;
+  
+}
+ul{
+  display: flex;
+  gap: 25px;
+  align-items: center;
+}
+h2{
+  font-size: 30px;
+  font-weight: 700;
+}
+h1{
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: center;
+  
+}
+.top{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+button{
+  padding: 20px 30px;
+  font-size: 18px;
+  width: 400px;
+}
+main{
+  width: 1500px;
+  margin: 10px auto;
+}
+.ota{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+input{
+  width: 250px;
+  height: 25px;
+  padding: 5px 10px;
+}
